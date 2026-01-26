@@ -1,2 +1,4 @@
 // file: new-1.txt 
-เพิ่มไฟล์ new-1.txt ใน directory ใหม่ (git102) แล้ว push ไปที่ github 
+เพิ่มไฟล์ new-1.txt ใน folder ใหม่ หรือ (git102) แล้ว push ไปที่ github 
+
+แล้วเพิ่มอีกบรรทัด แต่ให้ต่างจากที่ทำไว้ใน git102
