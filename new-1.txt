@@ -1,2 +1,4 @@
 // file: new-1.txt 
-เพิ่มไฟล์ new-1.txt ใน directory ใหม่ (git102) แล้ว push ไปที่ github 
+เพิ่มไฟล์ new-1.txt ใน directory ใหม่ นั่นคือ git102 แล้ว push ไปที่ github 
+
+เพิ่มอีก 1 บรรทัด เพื่อทดสอบการ pull ว่ามี conflict หรือไม่
