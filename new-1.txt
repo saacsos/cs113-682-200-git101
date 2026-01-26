@@ -1,0 +1,2 @@
+// file: new-1.txt 
+เพิ่มไฟล์ new-1.txt ใน directory ใหม่ (git102) แล้ว push ไปที่ github 
